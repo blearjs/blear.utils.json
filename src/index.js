@@ -1,6 +1,10 @@
-'use strict';
+/**
+ * JSON 相关
+ * @author 云淡然
+ * @update 2016年11月26日15:36:18
+ */
 
-require('blear.polyfills.json');
+'use strict';
 
 var object = require('blear.utils.object');
 var typeis = require('blear.utils.typeis');
